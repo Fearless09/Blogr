@@ -28,8 +28,8 @@ Users should be able to:
 ![mobile-preview](./solution/mobile-preview.jpeg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Fearless09/Blogr)
+- Live Site URL: (https://fearless09.github.io/Blogr/)
 
 
 ## My process
